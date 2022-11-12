@@ -17,6 +17,10 @@
 * Traer Productos Vendidos.-
 * Traer ventas.-
 
+
+
+INFORMACION DE LAS FUNCIONES:
+
 * Traer Nombre: Se debe enviar un JSON al front que contenga únicamente un string con el Nombre de la App a elección.
 
 * Inicio de sesión: Se le pasa como parámetro el nombre del usuario y la contraseña, buscar en la base de datos si el usuario existe y si coincide con la contraseña lo devuelve, caso contrario devuelve error.
